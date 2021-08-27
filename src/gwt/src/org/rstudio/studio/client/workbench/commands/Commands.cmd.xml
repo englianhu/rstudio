@@ -2334,6 +2334,126 @@ well as menu structures (for main menu and popup menus).
         context="files"
         desc="Create a new folder"/>
 
+   <cmd id="touchSourceDoc"
+        label="Create and Open a New R Script"
+        buttonLabel=""
+        menuLabel="_R Script"
+        desc="Create and open a new R script"/>
+
+   <cmd id="touchRNotebook"
+        menuLabel="R _Notebook"
+        desc="Create and open a new R Markdown notebook" />
+
+   <cmd id="touchTextDoc"
+        menuLabel="_Text File"
+        desc="Create and open a new text file"
+        rebindable="false"/>
+
+   <cmd id="touchCDoc"
+        menuLabel="_C File"
+        desc="Create and open a new C file"
+        rebindable="false"/>
+
+   <cmd id="touchCppDoc"
+        menuLabel="_C++ File"
+        desc="Create and open a new C++ file"
+        rebindable="false"/>
+
+   <cmd id="touchHeaderDoc"
+        menuLabel="_Header File"
+        desc="Create and open a new header file"
+        rebindable="false"/>
+
+   <cmd id="touchMarkdownDoc"
+        menuLabel="_Markdown File"
+        desc="Create and open a new Markdown document"
+        rebindable="false"/>
+
+   <cmd id="touchPythonDoc"
+        menuLabel="_Python Script"
+        desc="Create and open a new Python script"
+        rebindable="false"/>
+
+   <cmd id="touchShellDoc"
+        menuLabel="_Shell Script"
+        desc="Create and open a new shell script"
+        rebindable="false"/>
+
+   <cmd id="touchStanDoc"
+        menuLabel="_Stan File"
+        desc="Create and open a new Stan program"
+        rebindable="false"/>
+
+   <cmd id="touchHtmlDoc"
+        menuLabel="_HTML File"
+        desc="Create and open a new HTML file"
+        rebindable="false"/>
+
+   <cmd id="touchJavaScriptDoc"
+        menuLabel="_JavaScript File"
+        desc="Create and open a new JavaScript file"
+        rebindable="false"/>
+
+   <cmd id="touchCssDoc"
+        menuLabel="_CSS File"
+        desc="Create and open a new CSS file"
+        rebindable="false"/>
+
+   <cmd id="touchD3Doc"
+        menuLabel="_D3 Script"
+        desc="Create and open a new D3 Script"
+        rebindable="false"/>
+
+   <cmd id="touchRPlumberDoc"
+        menuLabel="Plumber _API..."
+        desc="Create and open a new Plumber API"
+        rebindable="false"/>
+
+   <cmd id="touchSweaveDoc"
+        menuLabel="R _Sweave"
+        desc="Create and open a new R Sweave document"
+        rebindable="false"/>
+
+   <cmd id="touchRMarkdownDoc"
+        menuLabel="R _Markdown..."
+        desc="Create and open a new R Markdown document"
+        rebindable="false"/>
+
+   <cmd id="touchQuartoDoc"
+        menuLabel="_Quarto Doc..."
+        desc="Create and open a new Quarto document"
+        rebindable="false"/>
+        
+   <cmd id="serveQuartoSite"
+        menuLabel="_Serve Site"
+        desc="Run development server for Quarto site"
+        rebindable="false"/>      
+
+   <cmd id="touchRShinyApp"
+        menuLabel="Shiny _Web App..."
+        desc="Create and open a new Shiny web application"
+        rebindable="false"/>
+
+   <cmd id="touchRHTMLDoc"
+        menuLabel="R _HTML"
+        desc="Create and open a new R HTML document"
+        rebindable="false"/>
+
+   <cmd id="touchRPresentationDoc"
+        menuLabel="R _Presentation"
+        desc="Create and open a new R presentation"
+        rebindable="false"/>
+
+   <cmd id="touchRDocumentationDoc"
+        menuLabel="R Doc_umentation..."
+        desc="Create and open a new Rd documentation file"
+        rebindable="false"/>
+
+   <cmd id="touchSqlDoc"
+        menuLabel="SQ_L Script"
+        desc="Create and open a new SQL script"
+        rebindable="false"/>
+
    <cmd id="uploadFile"
         label="Upload Files..."
         menuLabel="Upload Files..."
